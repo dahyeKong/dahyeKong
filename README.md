@@ -11,20 +11,22 @@
  </div>
 
  <div>
-  <img src="https://img.shields.io/badge/Vue.js-black?style=flat&logo=Vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-black?style=flat&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-black?style=flat&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=CSS3&logoColor=white"/>
+<!--   https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR> -->
+  
+  <img src="https://img.shields.io/badge/Vue.js-FF9FB4?style=flat&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-FF9FB4?style=flat&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-FF9FB4?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-FF9FB4?style=flat&logo=CSS3&logoColor=white"/>
  </div>
 </div>
  
-<!-- #FFACBE  -->
+<!-- #FF9FB4  -->
 
 <!-- 자기 소개 관련 -->
 <div>
  <h2>🐼 Me </h2>
- <a href="https://dahyekong.github.io"><img src="https://img.shields.io/badge/❤️Blog-black?style=flat&logoColor=white"/></a>
- <a><img src="https://img.shields.io/badge/❤️Portfolio-black?style=flat&logoColor=black"/></a>
+ <a href="https://dahyekong.github.io"><img src="https://img.shields.io/badge/🤍 Blog-FF9FB4?style=flat&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/🤍 Portfolio-FF9FB4?style=flat&logoColor=white"/></a>
 </div><br>
 
  ![dahyeKong's github stats](https://github-readme-stats.vercel.app/api?username=dahyeKong&show_icons=true&theme=dracula)
